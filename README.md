@@ -1,1 +1,2 @@
-# INGCOM-IC-2025-DP
+Nombre: Dante Pedrazzini
+Alias en GitHub: Inverzo5
